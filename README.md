@@ -1,4 +1,4 @@
-enumerateleafnodes
+Enumerate leaf nodes of a tree
 ==================
 
-Enumerate leaf nodes with depth-first strategy
+Recursively enumerate leaf nodes with depth-first strategy
